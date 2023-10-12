@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<math.h>
+// Today is october 12 Thursday 617 10:49.
 // float mutlipier();
 float mul(float v,float g){
     float result;
